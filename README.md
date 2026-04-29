@@ -6,6 +6,4 @@ This project analyzes rental performance, client conversions, and incentive impa
 ## 🔍 Key Insights
 - Compared NoBroker vs external rental outcomes  
 - Identified revenue leakage  
-- Tracked incentive earned vs lost across months  
-
-## 📷 Dashboard Preview
+- Tracked incentive earned vs lost across months 
